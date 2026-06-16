@@ -39,7 +39,7 @@
 ---
 
 ## contact & links
-**Email:** [251b153@juetguna.in](mailto:251b153@juetguna.in)
+**Email:** [ojasvagupta71@gmail.com](mailto:ojasvagupta71@gmail.com)
 
 ---
 
