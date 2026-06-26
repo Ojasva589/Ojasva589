@@ -1,54 +1,54 @@
-# hey, i'm Ojasva 👋
+# Yo, I'm Ojasva 👋
 
-> **CS Student @ JUET**
-> still figuring things out but making commits along the way
-
----
-
-## about me
-- **currently learning:** Python · SQL  
-- **foundations:** C · C++  
-- **approach:** break things first, understand later  
-- **vibe:** github is new territory but here we are 🤷
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHg5aWNxbHZpejlibTNiZ2tjaXFqdHFsZjA0eTBqZ245NXJnaXkzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" width="500"/>
 
 ---
 
-## 🛠 what i know (so far)
+# About Me 💬
+
+### - 19 y/o CS student @ JUET, Guna | figuring things out one commit at a time
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
+
+### - Currently Learning :
+
+- ✨ Python
+- ✨ SQL
+- ✨ Data Structures & Algorithms (next sem, not scared. okay a little scared 💀)
+
+### - Hobbies :
+
+- ✨ Video Editing
+- ✨ Photography
+- ✨ Vibe Coding 
+- ✨ Trying new adventures
+
+---
+
+# Languages & Tools 👨‍💻 🛠
 
 [![C](https://img.shields.io/badge/C-3670A0?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)
 [![Python](https://img.shields.io/badge/Python-learning-orange?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![SQL](https://img.shields.io/badge/SQL-learning-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
 
-## 📚 currently surviving
+# Contact Me 📬
 
-| Course | Status |
-|--------|--------|
-| Data Structures & Algorithms | 🟢 next sem, not scared (a little scared) |
-| Object Oriented Programming | ✅ done |
+if you wanna collab, talk tech, or just hang — hit me up 😉
 
----
-
-## 📈 right now i'm
-- getting the hang of python
-- poking around sql
-- mentally preparing for dsa
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojasvagupta71@gmail.com)
 
 ---
 
-## contact & links
-**Email:** [ojasvagupta71@gmail.com](mailto:ojasvagupta71@gmail.com)
-
----
-
-## 📊 github stats
+# 📊 GitHub Stats
 
 ![Ojasva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ojasva589&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ojasva589&layout=compact&theme=radical)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ojasva589&layout=compact&theme=radical)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ojasva589&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/Ojasva589)
 
