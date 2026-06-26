@@ -40,7 +40,7 @@
 
 if you wanna collab, talk tech, or just hang — hit me up 😉
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojasvagupta71@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.ojasvagupta@gmail.com)
 
 ---
 
